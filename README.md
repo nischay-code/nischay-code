@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning Markdown , HTML, CSS and JS.
+- 🌱 I’m currently learning Markdown, HTML, CSS and JS.
 
 
