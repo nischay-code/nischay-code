@@ -1,18 +1,21 @@
-<h1><b>Hi , I'm Nischay Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><p>
+<h1><b>Hi, I'm Nischay Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&height=50&lines=Active+Learner,;Computer+Science+Student,;Love+to+learn+new+stuffs..<3"></a>
 </p></h1>
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b>
 
 
 - **Languages**:
+  
   
   <img align="left" alt="C" width="26px" src="https://img.icons8.com/fluency/256/c-programming.png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/256/typescript.png" />
+
+
 
   <br/>
   <br/>
@@ -31,17 +34,18 @@
   <br/>
   <br/>
 
+
 - **Softwares and Tools**:
 
   
   <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/512/node-js.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/512/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/512/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/512/github.png" />
+<!-- <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/512/github.png" /> -->
 
 
   <br/>
   <br/>
+
 
 - **Extras**:
   
@@ -49,6 +53,7 @@
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/512/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/512/amazon-web-services.png" />
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/512/docker.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/512/mongodb.png" />
 
 
 </p>
@@ -64,8 +69,9 @@
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nischay-code&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nischay-code&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="338"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nischay-code&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="465"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nischay-code&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="300"/>
 
 </a>
   
