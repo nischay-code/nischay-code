@@ -52,7 +52,7 @@
   <img align="left" alt="Markdown" width="26px" src="https://img.icons8.com/color/256/markdown.png" />  
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/512/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/512/amazon-web-services.png" />
-<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/512/docker.png" />
+<!-- <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/512/docker.png" /> -->
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/512/mongodb.png" />
 
 
