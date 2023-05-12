@@ -2,8 +2,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&vCenter=true&width=500&height=50&lines=Active+Learner,;Computer+Science+Student,;Love+to+learn+new+stuffs..<3"></a>
 </p></h1>
 
-<br/>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b>
 
 
