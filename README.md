@@ -11,7 +11,7 @@
   <img align="left" alt="C" width="26px" src="https://img.icons8.com/fluency/256/c-programming.png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/256/typescript.png" />
+<!-- <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/256/typescript.png" /> -->
 
 
 
@@ -47,7 +47,7 @@
 
 - **Extras**:
   
-  <img align="left" alt="Markdown" width="26px" src="https://img.icons8.com/color/256/markdown.png" />  
+  <img align="left" alt="Markdown" width="26px" src="https://img.icons8.com/?size=512&id=21831&format=png" />  
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/512/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/512/amazon-web-services.png" />
 <!-- <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/512/docker.png" /> -->
