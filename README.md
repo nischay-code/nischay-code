@@ -9,17 +9,18 @@
   
   
   <img align="left" alt="C" width="26px" src="https://img.icons8.com/fluency/256/c-programming.png" />
+<img align="left" alt="CSharp" width="26px" src="https://img.icons8.com/?size=512&id=55251&format=png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
-<!-- <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/256/typescript.png" /> -->
-
+<img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/?size=512&id=nCj4PvnCO0tZ&format=png" />
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/?size=512&id=13679&format=png" />
 
 
   <br/>
   <br/>
   
   
-- **Front-End Development**:
+- **Development**:
   
 
   <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/512/html-5.png" />
@@ -27,6 +28,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
 <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/color/256/react-native.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://img.icons8.com/?size=512&id=04OFrkjznvcd&format=png" />
   
 
   <br/>
@@ -50,8 +52,10 @@
   <img align="left" alt="Markdown" width="26px" src="https://img.icons8.com/?size=512&id=21831&format=png" />  
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/512/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/512/amazon-web-services.png" />
-<!-- <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/512/docker.png" /> -->
+<img align="left" alt="TailwindCSS" width="26px" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" /> 
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/512/mongodb.png" />
+<img align="left" alt="Google Cloud Storage" width="26px" src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/?size=512&id=84710&format=png" />
 
 
 </p>
