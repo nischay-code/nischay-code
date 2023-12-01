@@ -1,6 +1,6 @@
 
 #  Hi, I'm Nischay Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&vCenter=true&width=500&height=30&lines=Active+Learner,;Computer+Science+Student,;Love+to+learn+new+stuffs...💕">
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=500&size=30&pause=1000&color=0F5DA1&background=4EFFED00&vCenter=true&random=false&width=435&height=36&lines=Active+learner%2C;Computer+science+student%2C;Love+learning+new+things...%F0%9F%92%95" alt="Typing SVG" />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b>
 - **Languages**:
