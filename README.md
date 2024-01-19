@@ -49,3 +49,4 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5347d8c2-99df-4ed4-b89c-483a0d8ffc01/deploy-status)](https://app.netlify.com/sites/nischaypatel/deploys)
 
+![Visitor Count](https://profile-counter.glitch.me/nischay-code/count.svg)
