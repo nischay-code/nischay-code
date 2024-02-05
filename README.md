@@ -27,7 +27,8 @@
 
 - **Softwares and Tools**:
   
-  <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/512/node-js.png" />
+  <img align="left" alt="vscode" width="26px" src="https://github.com/nischay-code/nischay-code/assets/95124327/385e84f9-b3c7-47f7-b5fe-5bd5743b4111" />
+<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/512/node-js.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/512/git.png" />
 <img align="left" alt="Postman" width="26px" src="https://github.com/nischay-code/nischay-code/assets/95124327/c70b4dfb-9a6d-4b55-af66-fff83fec78f4" />
   <br/>
