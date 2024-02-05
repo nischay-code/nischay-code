@@ -10,13 +10,14 @@
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/?size=512&id=nCj4PvnCO0tZ&format=png" />
   <br/>
   <br/>
-  
+
 - **Development**:
 
   <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/512/html-5.png" />
 <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/fluency/512/css3.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
+<img align="left" alt="Nextjs" width="26px" src="https://github.com/nischay-code/nischay-code/assets/95124327/69cb884d-b3c2-4ce1-a056-d73b9b8deb53" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/512/mongodb.png" />
 <img align="left" alt="expressjs" width="26px" src="https://github.com/nischay-code/nischay-code/assets/95124327/d1e273dd-7c2a-4e29-a1b8-356962eb8e76" />
 <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/color/256/react-native.png" />
