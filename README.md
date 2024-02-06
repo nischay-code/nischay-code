@@ -5,8 +5,8 @@
 - **Languages**:
   
   <img align="left" alt="C" width="26px" src="https://img.icons8.com/fluency/256/c-programming.png" />
-<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
+<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/?size=512&id=nCj4PvnCO0tZ&format=png" />
   <br/>
   <br/>
