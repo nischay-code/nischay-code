@@ -25,6 +25,7 @@
   <br/>
   <br/>
 
+
 - **Softwares and Tools**:
   
   <img align="left" alt="vscode" width="26px" src="https://github.com/nischay-code/nischay-code/assets/95124327/385e84f9-b3c7-47f7-b5fe-5bd5743b4111" />
@@ -39,6 +40,7 @@
   <img align="left" alt="Markdown" width="26px" src="https://img.icons8.com/?size=512&id=21831&format=png" />  
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/512/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/512/amazon-web-services.png" />
+<img align="left" alt="Azure" width="26px" src="https://github.com/nischay-code/nischay-code/assets/95124327/fdeebed5-2d77-4452-91a2-7798021aeb43" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" /> 
 <img align="left" alt="Google Cloud Storage" width="26px" src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/?size=512&id=84710&format=png" />
