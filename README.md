@@ -1,6 +1,7 @@
 #  Hi, I'm Nischay Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=500&size=30&pause=1000&color=0F5DA1&background=4EFFED00&vCenter=true&random=false&width=435&height=36&lines=Active+learner%2C;Computer+science+student%2C;Love+learning+new+things...%F0%9F%92%95" alt="Typing SVG" />
 
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b>
 - **Languages**:
   
@@ -8,6 +9,7 @@
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/?size=512&id=nCj4PvnCO0tZ&format=png" />
+<img align="left" alt="XML" width="26px" src="https://github.com/nischay-code/nischay-code/assets/95124327/6477958d-8b1e-4554-b97a-676137415469" />
   <br/>
   <br/>
 
