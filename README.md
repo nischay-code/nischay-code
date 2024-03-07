@@ -52,6 +52,7 @@
 <br>
 <br>
 
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nischay-code&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats">
  
@@ -62,5 +63,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/nischay-code/count.svg)
 
 <a href="https://api.badgr.io/public/assertions/4ZQErVwhSSuOgB6S2avfOQ" target="_blank"><img src=https://github.com/nischay-code/nischay-code/assets/95124327/c3f5799a-5a8d-4d9f-9cd4-2ecdd000e63c alt="Postman API Fundamentals Student Expert Badge" width="130px"></img></a>
+<a href="https://www.credly.com/badges/e57052f2-5f7d-467e-bae6-b98f175201c5/linked_in_profile" target="_blank"><img src=https://github.com/nischay-code/nischay-code/assets/95124327/04519c72-abf5-4005-acc4-0c525a520ed0 alt="AWS Academy Graduate - AWS Academy Cloud Foundations" width="145px"></img></a>
 
 
