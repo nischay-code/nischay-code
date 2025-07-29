@@ -60,7 +60,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5347d8c2-99df-4ed4-b89c-483a0d8ffc01/deploy-status)](https://app.netlify.com/sites/nischaypatel/deploys)
 
-![Visitor Count](https://profile-counter.glitch.me/nischay-code/count.svg)
 
 <a href="https://api.badgr.io/public/assertions/4ZQErVwhSSuOgB6S2avfOQ" target="_blank"><img src=https://github.com/nischay-code/nischay-code/assets/95124327/c3f5799a-5a8d-4d9f-9cd4-2ecdd000e63c alt="Postman API Fundamentals Student Expert Badge" width="130px"></img></a>
 <a href="https://www.credly.com/badges/e57052f2-5f7d-467e-bae6-b98f175201c5/linked_in_profile" target="_blank"><img src=https://github.com/nischay-code/nischay-code/assets/95124327/04519c72-abf5-4005-acc4-0c525a520ed0 alt="AWS Academy Graduate - AWS Academy Cloud Foundations" width="145px"></img></a>
