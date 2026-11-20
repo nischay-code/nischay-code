@@ -65,5 +65,7 @@
 <a href="https://www.credly.com/badges/e57052f2-5f7d-467e-bae6-b98f175201c5/linked_in_profile" target="_blank"><img src=https://github.com/nischay-code/nischay-code/assets/95124327/04519c72-abf5-4005-acc4-0c525a520ed0 alt="AWS Academy Graduate - AWS Academy Cloud Foundations" width="145px"></img></a>
 <a href="https://www.credly.com/badges/ce832c7a-3b15-4db3-b2ee-47645e8be7b7/public_url" target="_blank"><img src=https://github.com/user-attachments/assets/19910c2d-2f07-471d-a519-5c3cd76b8de5 alt="GitHub Foundations" width="145px"></img></a>
 <a href="https://www.credly.com/badges/2e379e6d-8765-4554-8211-c2a22a3cd5a8/public_url" target="_blank"><img src=https://github.com/user-attachments/assets/154e7459-8f81-4d42-9c84-059c75b50a78 alt="GitHub Copilot" width="145px"></img></a>
-
 <a href="https://www.credly.com/badges/1343ec4e-816c-4178-a769-4cd5bd685fcc/public_url" target="_blank"><img src=https://github.com/user-attachments/assets/4a8009ce-a587-4084-bf9c-8779e280b7bb alt="aws-certified-cloud-practitioner" width="145px"></img></a>
+<a href="https://www.credly.com/badges/a0529a13-fdf5-46c3-9585-196b0cbc7759/public_url" target="_blank"><img src=https://github.com/user-attachments/assets/9b968da8-ce44-46ef-8cb9-42650f6a7706 alt="Claude Certified Associate - Foundations" width="145px"></img></a>
+<a href="https://www.credly.com/badges/2df9d050-8a4f-4bc2-8b48-48369b814f56/public_url" target="_blank"><img src=https://github.com/user-attachments/assets/95cd6290-16d3-452f-9d97-660bfbbf1e89 alt="Claude Certified Developer - Foundations" width="145px"></img></a>
+
